@@ -1,2 +1,2 @@
-alert('Hello,はげたくと)
+alert('Hello,hagetakuto)
       
