@@ -1,2 +1,3 @@
-alert('Hello,hagetakuto)
+alert('Hello,hagetakuto);
+alert(1+1);
       
